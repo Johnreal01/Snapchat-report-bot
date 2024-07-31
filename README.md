@@ -1,5 +1,6 @@
 # Snapchat-report-bot
-Snapchat report bot python script that report storys for fraud
+Snapchat report bot python script that report storys for fraud using the web based api.
+
 Report users on Snapchat
 
 telegram: https://t.me/johnreal01
